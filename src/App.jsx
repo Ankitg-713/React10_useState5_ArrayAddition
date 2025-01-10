@@ -5,7 +5,7 @@ import { useState } from "react";
 function App() {
   
 
-  const [val, setVal] = useState([1,2,3,4,5,6]);
+  const [val, setVal] = useState([1,2,3,4,5,6,7]);
 
   return (
     <div className='p-5'>
